@@ -1,6 +1,6 @@
 [[https://github.com/ROCKTAKEY/docker-emacs-straight][https://img.shields.io/github/tag/ROCKTAKEY/docker-emacs-straight.svg?style=flat-square]]
 [[file:LICENSE][https://img.shields.io/github/license/ROCKTAKEY/docker-emacs-straight.svg?style=flat-square]]
-[[https://cloud.docker.com/u/rocktakey/repository/docker/emacs-straight/][https://img.shields.io/docker/automated/rocktakey/emacs-straight.svg?style=flat-square]]
+[[https://cloud.docker.com/repository/docker/rocktakey/emacs-straight/][https://img.shields.io/docker/automated/rocktakey/emacs-straight.svg?style=flat-square]]
 * Dockerfile for emacs and straight
 * How to Use?
 * License
