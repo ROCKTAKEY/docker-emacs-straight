@@ -5,8 +5,8 @@
 * How to Use?
 * License
   This package is licensed by MIT License. See [[file:LICENSE][LICENSE]].
-  And, the part of Dockerfile  is licensed by MIT License of [[https://github.com/raxod502][raxod502]].
-  See below.
+  And, the part of init.el  is licensed by MIT License of [[https://github.com/raxod502][raxod502]].
+  See below, and [[file:init.el][init.el]].
 #+BEGIN_SRC markdown -n
 # MIT License
 
